@@ -1,4 +1,4 @@
-``` golang
+``` go
 package mudserver
 
 import (
