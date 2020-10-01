@@ -2,6 +2,7 @@ site_name: Hello World!
 nav:
     - Home: index.md
     - Architecture: architecture.md
+    - Code: code.md
 theme:
   name: material
   
