@@ -5,5 +5,5 @@ nav:
     - Code: code.md
 theme:
   name: material
-  
-  ## update
+  features:
+    - navigation.tabs  
