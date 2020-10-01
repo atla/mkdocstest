@@ -1,8 +1,11 @@
 site_name: Hello World!
 nav:
-    - Home: index.md
-    - Architecture: architecture.md
-    - Code: code.md
+    - Home: 
+        - Overview: index.md
+    - Architecture: 
+        - Intro: architecture.md
+    - Development:
+        - Code: code.md
 theme:
   name: material
   features:
